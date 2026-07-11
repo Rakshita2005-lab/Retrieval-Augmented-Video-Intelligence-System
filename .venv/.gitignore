@@ -1,0 +1,8 @@
+Vedio_agent/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.wav
+*_chunk_*.wav
